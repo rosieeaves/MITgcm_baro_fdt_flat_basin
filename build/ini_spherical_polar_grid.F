@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/ini_spherical_polar_grid.F

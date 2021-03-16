@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/calc_3d_diffusivity.F

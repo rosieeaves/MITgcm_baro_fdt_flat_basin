@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/eesupp/src/eeboot_minimal.F

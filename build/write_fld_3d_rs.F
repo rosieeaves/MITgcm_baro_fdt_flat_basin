@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/pkg/rw/write_fld_3d_rs.F

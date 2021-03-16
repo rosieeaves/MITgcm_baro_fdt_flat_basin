@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/cg2d_sr.F

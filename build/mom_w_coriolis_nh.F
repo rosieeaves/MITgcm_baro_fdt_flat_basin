@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/pkg/mom_common/mom_w_coriolis_nh.F

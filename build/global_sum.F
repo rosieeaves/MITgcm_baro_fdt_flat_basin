@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/eesupp/src/global_sum.F

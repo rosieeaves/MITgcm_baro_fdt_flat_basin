@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/pkg/monitor/monitor_ad.F

@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/reset_nlfs_vars.F

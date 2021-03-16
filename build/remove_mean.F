@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/remove_mean.F

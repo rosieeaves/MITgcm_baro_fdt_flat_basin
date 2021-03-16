@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/model/src/do_atmospheric_phys.F

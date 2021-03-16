@@ -1,1 +1,0 @@
-/home/eavesr/MITgcm/pkg/mom_common/MOM_COMMON_OPTIONS.h
